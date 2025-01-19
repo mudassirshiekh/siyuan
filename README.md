@@ -72,6 +72,7 @@ Welcome to [SiYuan English Discussion Forum](https://liuyun.io) to learn more.
 ![feature51.png](https://b3logfile.com/file/2024/02/feature5-1-uYYjAqy.png)
 
 ## 🔮 Features
+## By Mudassir Alam
 
 Most features are free, even for commercial use.
 
